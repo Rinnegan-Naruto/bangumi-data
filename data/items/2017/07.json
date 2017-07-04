@@ -64,6 +64,16 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh86w2l",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
@@ -122,7 +132,7 @@
         "censored": false,
         "lang": "zh-Hans",
         "comment": ""
-      }
+      },
     ]
   },
   {
@@ -141,6 +151,16 @@
       {
         "site": "bangumi",
         "id": "207593"
+      },
+      {
+        "site": "iqiyi",
+        "id": "a_19rrh830zx",
+        "begin": "",
+        "official": true,
+        "premuiumOnly": true,
+        "censored": false,
+        "lang": "zh-Hans",
+        "comment": ""
       }
     ]
   },
